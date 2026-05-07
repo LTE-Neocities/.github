@@ -1,1 +1,2 @@
-# .github
+# LTE Neocities
+bald and homeless
